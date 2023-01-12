@@ -15,5 +15,7 @@ Source code - Temp mail | berfungsi untuk memiliki email yang hanya 1 kali digun
 - Membutuhkan Database, dan beberapa data server yang digunakan.
 - Temp mail simple & Mudah digunakan.
 - Web sangat editable dan responsive
+- Tersedia beberapa Template
+- Add simple menu
 
 ## Suport me

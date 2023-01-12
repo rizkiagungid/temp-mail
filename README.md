@@ -24,3 +24,6 @@ Source code - Temp mail | berfungsi untuk memiliki email yang hanya 1 kali digun
 
 <br></br>
 https://saweria.co/rizkiagungid
+
+## screenshot
+![Screenshot (2138)](https://user-images.githubusercontent.com/77620549/212069200-2509849e-2faa-4154-bb91-dae28adbb5e8.png)
